@@ -81,7 +81,10 @@ p {
   transform: translate(-50%, -50%);
   width: 1020px;
   height: 690px;
-  background-color: white;
+  background: url(carta-1.svg) #000;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center ; 
   border-radius: 5px;
   box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
   z-index: 10;
